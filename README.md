@@ -1,6 +1,6 @@
 <h1>I'm Noam</h1>
 
-Started as a content creator in web3, now working on growing adoption across the [Stacks](https://x.com/Stacks)/Bitcoin ecosystem. Alongside that, I'm deep into AI and agentic tooling — not just for crypto — building skills and workflows for whatever I'm working on.
+Started as a content creator in web3, now working on growing adoption across the [Stacks](https://x.com/Stacks)/Bitcoin ecosystem. Alongside that, I'm deep into AI and agentic tooling building skills and workflows for whatever I'm working on.
 
 ---
 
