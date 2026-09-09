@@ -8,7 +8,7 @@ Started as a content creator in web3, now working on growing adoption across the
 
 - Marketing and growth in Stacks (Bitcoin L2): social media and community growth, AI-search visibility (GEO), and protocol launch marketing (Zest, Stacking DAO, Bitcoin Staking)
 - Shipping AI skills for work and personal projects (e.g. [Lego deal tracking](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot))
-- Running personal experiments: grew an X account to 4k followers from scratch
+- Running personal experiments: grew a personal Web3 focused X account to 4k followers from scratch
 
 ---
 
