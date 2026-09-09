@@ -1,12 +1,12 @@
 <h1>I'm Noam</h1>
 
-Started as a content creator in web3, now working on growing adoption across the Stacks/Bitcoin ecosystem. Alongside that, I'm deep into AI and agentic tooling — not just for crypto — building skills and workflows for whatever I'm working on.
+Started as a content creator in web3, now working on growing adoption across the [Stacks](https://x.com/Stacks)/Bitcoin ecosystem. Alongside that, I'm deep into AI and agentic tooling — not just for crypto — building skills and workflows for whatever I'm working on.
 
 ---
 
 ### Currently
 
-- Marketing and growth in Stacks (Bitcoin L2): social media and community growth, AI-search visibility (GEO), and protocol launch marketing (Zest, Stacking DAO, Bitcoin Staking)
+- Marketing and growth in [Stacks](https://x.com/Stacks) (Bitcoin L2): social media and community growth, AI-search visibility (GEO), and GTM marketing/strategy
 - Shipping AI skills for work and personal projects (e.g. [Lego deal tracking](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot))
 - Running personal experiments: grew a personal Web3 focused X account to 4k followers from scratch
 
