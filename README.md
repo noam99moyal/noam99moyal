@@ -14,5 +14,4 @@ Started as a content creator in web3, now working on growing adoption across the
 
 <p>
  <a href="https://github.com/noam99moyal"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat" /></a>
- <a href="https://x.com/theadvisorbtc"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white&style=flat" /></a>
 </p>
