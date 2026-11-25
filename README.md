@@ -7,7 +7,7 @@ Started as a content creator in web3, now working on growing adoption across the
 ### Currently
 
 - Marketing and growth in [Stacks](https://x.com/Stacks) (Bitcoin L2): social media and community growth, AI-search visibility (GEO), and GTM marketing/strategy
-- Shipping AI skills for work and personal projects (e.g. [Lego deal tracking](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot) [Shorts/Clip Pipeline](https://github.com/noam99moyal/shorts-clips-pipeline).)
+- Shipping AI skills for work and personal projects (e.g. [Lego deal tracking](https://github.com/noam99moyal/Sealed_LEGO_Hunter_Bot), [Shorts/Clip Pipeline](https://github.com/noam99moyal/shorts-clips-pipeline).)
 - Running personal experiments: grew a personal Web3 focused X account to 4k followers from scratch
 
 ---
